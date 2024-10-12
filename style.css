@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1, h2 {
+    text-align: center;
+    color: #333;
+    font-size: 38px;
+  }
+
+  h2 {
+    display: block;
+    font-size: 1.8em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 130px;
+    margin-inline-end: 130px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+
+  
+  h3{
+    text-align: left;
+    color: rgb(224, 64, 187);
+    font-size: 28px;
+  }
+
+  
+  .selection-container {
+    margin-top: 30px;
+    text-align: left;
+    
+  }
+
+
+  p {
+    display: block;
+    margin-block-start: 0.3em;
+    margin-block-end: 0.3em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+  
+  .selection-label {
+    display: block;
+    margin-bottom: 15px;
+    cursor: pointer;
+    font-size: 25px;
+  }
+  
+  .selection-checkbox {
+    margin-right: 20px;
+  }
+
+  .texto-do{
+    text-align: right;
+  }
+  
+  .video-container {
+    display: none;
+    margin-top: 10px;
+    width: 100%;
+    height: auto;
+  }
+  
+  iframe {
+    width: 900px;
+    max-width: 560px;
+    max-height: 500px;
+    height: 315px;
+  }
+  
